@@ -9,8 +9,8 @@ I'm Mile Mihailov welcome to my GitHub profile! I'm a C#, .NET developer with pa
 - Frameworks: .NET Core, ASP.NET Core, Blazor
 - Other Skills: EF, MudBlazor, HTML5, CSS3
 
-🚀 Current Projects
-MachineControlHub: Machine Control Hub is an intuitive host designed to manage and monitor 3D printers with Marlin firmware.
+🚀 Current Project
+##### MachineControlHub: Machine Control Hub is an intuitive host designed to manage and monitor 3D printers with Marlin firmware.
 
 👯 I’m looking to collaborate on simmilar projects.
 
